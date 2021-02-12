@@ -1,4 +1,4 @@
 {
-    "jwtPrivateKey" : "",
-    "db": "mongodb://localhost/vilda"
+    "jwtPrivateKey" : "asdasda",
+    "db": "mongodb+srv://Bekheit:0105267631@cluster0.h4afz.mongodb.net/vilda?retryWrites=true&w=majority"
 }
